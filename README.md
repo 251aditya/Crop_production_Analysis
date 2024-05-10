@@ -1,33 +1,35 @@
 # [Crop_production_Analysis](https://public.tableau.com/views/CropProductionAnalysisinIndia_17148975013260/Overview?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-## 🚀 PROJECT SPOTLIGHT: Analyzing Amazon Sales Data with Tableau 🚀
-I'm creating a Tableau Dashboard where I analysis complete Dataset about Amazon Sales in different Region 
+##  🚀 PROJECT SPOTLIGHT: Crop Production Analysis in India with Tableau 🚀
+I'm creating a Tableau Dashboard where I analysis complete Dataset about Crop Production in India.
 
 ## Table of Contents
+- [Introduction](#introduction)
 - [Problem Statement](#problem_statement)
-- [Dataset](#dataset)
+- [Data_Sources](#data_Sources)
 - [Manupulation](#manupulation)
-- [Insights & Analysis](#insights_&_analysis)
-- [Report Generation & presentation](#report_generation_&_presentation)
+- [Researchers_and_Analysts](#researchers_and_Analysts)
+- [Software_and_Tools](#software_and_Tools)
+
+## Introduction
+The agriculture business domain plays a critical role in the supply chain and is poised for significant evolution in the coming years, driven by advancements in the Future Internet. This paper introduces a novel Business-to-Business (B2B) collaboration platform tailored to the agri-food sector. The platform aims to facilitate effective and flexible collaboration among stakeholders from various associated business domains.
 
 ## Problem_Statement:
-Sales management has gained importance to meet increasing competition and the need for improved methods of distribution to reduce cost and to increase profits. Sales management today is the most important function in a commercial and business enterprise.
+This dataset provides comprehensive information on crop production in India spanning several years. The primary objective is to leverage this dataset to predict crop production and uncover key insights into the factors influencing production metrics.
 
-## Dataset
-The dataset used in this project is sourced from [here](https://drive.google.com/drive/folders/18L6HJawihBAALwjb8m_6UjNfnlCIFI62). It comprises a comprehensive collection of information related to Amazon Sales.
+## Data_Sources: 
+• The Ministry of Agriculture & Farmers Welfare, Government of India, for providing comprehensive data on crop area, yield, and production through their online portal.
+• I got this data from Unified Mentor Pvt Ltd.
 
 ## Manupulation  
-ETL with Excel sheets to extract , transform and load the Amazon dataset ensuring clean and ready to analyze Data.
-Tableau Public : leveraged Tableau to visualization powerful capabilites to create insightful Dashboard.
+Do some EDA(Exploratory Data Analysis) to find missing value ,duplication of the data and become ready to create Dashboard to get insight from it.
 
-## Insights & Analysis
->>  Evaluate the impact of marketing campaigns, pricing changes, and promotions on sales.
-
-
->>  Explored correlations between Customers demographics, product category, and sales performance.
+## Researchers_and_Analysts: 
+>>  Gratitude is extended to the researchers and analysts who have previously investigated crop production in India. Their past work has informed the approach and methodology used in this analysis.
 
 
->>  Identify Sales and profit on the basis of Sales channel, year wise , Items types
+>> Making Production Forecast to predict future production.
 
-## Report Generation & presentation
-Compiled a comprehensive project report with key findings, actionable insights, and strategic recommendations.
-Presented visualizations, Charts and Tables from Tableau Public in a clear and structured format.
+## Software_and_Tools: 
+Thanks to the developers of the software and tools used for data analysis and visualization that is Tableau. This tools facilitated the exploration and interpretation of the data.
+
+# Thank You
