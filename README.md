@@ -1,6 +1,8 @@
 # [Crop_Production_Analysis](https://public.tableau.com/views/CropProductionAnalysisinIndia_17148975013260/Overview?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 ##  🚀 PROJECT SPOTLIGHT: Crop Production Analysis in India with Tableau 🚀
 I'm creating a Tableau Dashboard where I analysis complete Dataset about Crop Production in India.
+!["Thumbnail"](cover page crop12_8.png)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
