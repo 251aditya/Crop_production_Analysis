@@ -17,8 +17,9 @@ The agriculture business domain plays a critical role in the supply chain and is
 This dataset provides comprehensive information on crop production in India spanning several years. The primary objective is to leverage this dataset to predict crop production and uncover key insights into the factors influencing production metrics.
 
 ## Data_Sources: 
-• The Ministry of Agriculture & Farmers Welfare, Government of India, for providing comprehensive data on crop area, yield, and production through their online portal.
-• I got this data from Unified Mentor Pvt Ltd.
+>> The Ministry of Agriculture & Farmers Welfare, Government of India, for providing comprehensive data on crop area, yield, and production through their online portal.
+
+>>  I got this data from Unified Mentor Pvt Ltd.
 
 ## Manupulation  
 Do some EDA(Exploratory Data Analysis) to find missing value ,duplication of the data and become ready to create Dashboard to get insight from it.
